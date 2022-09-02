@@ -375,4 +375,8 @@ This all sounds terribly complicated, but it becomes second nature when you have
 ## Exercise 1:
 
 Write DONE on the last line. (This is currently the last line, so add a line below it; don't forget to add a newline after DONE.)
+<<<<<<< HEAD
 DONE
+=======
+DONE
+>>>>>>> eb4f63600b698178aaac380a56ad6a1213ffb5d3
